@@ -1,7 +1,7 @@
 # 🔥 Ruwet - Detect Messy Code Before It Ruins Your Day
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alimasyhur/ruwet/main/assets/ruwet-logo.png" alt="Ruwet Logo" width="200"/>
+  <img src="https://github.com/user-attachments/assets/9c1590cf-317e-4305-bd2c-d6d797def15a" alt="Ruwet Logo" width="200"/>  
 </p>
 
 <p align="center">
